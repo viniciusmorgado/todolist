@@ -4,7 +4,7 @@ Basic To-do List application for Android developed in Flutter for study purposes
 
 ## Getting Started
 
-For use this application on your smartphone or VM you can download apk or App Bundle on "download" session of this readme, if you intends to run the code in DartVM you will need to install Dart and Flutter both available for Windows, macos and Linux, please follow links for more information:
+For use this application on your smartphone or VM you can download apk or App Bundle on "download" session of this readme, if you intends to run the code in DartVM you will need to install Dart and Flutter both available for Windows, MacOS and Linux, please follow links for more information:
 
 [Dart - Get Started, Installation](https://dart.dev/get-dart)
 
@@ -12,10 +12,10 @@ For use this application on your smartphone or VM you can download apk or App Bu
 
 ### Prerequisites
 
-Run apk:
+**Run apk:**
 * Android 8.0 or later.
 
-Edit code:
+**Edit code:**
 * DartVM 2.70 or later
 * Flutter 1.12.13+hotfix.8 or later
 * Code editor (Ex: vscode, xcode, atom)
@@ -35,26 +35,6 @@ Check-in on your tasks when they are complete: | Pull in one of the directions t
 :-------------------------:|:-------------------------:
 ![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/check_tasks.png) | ![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/ezgif.com-resize.gif)
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Under construction.
-
 ## Built With
 
 * [Dart](https://dart.dev/)
@@ -64,10 +44,6 @@ Under construction.
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/viniciusmorgado/todolist/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.h
-
-## Versioning
-
-Under construction.
 
 ## Authors
 
