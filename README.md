@@ -66,7 +66,7 @@ Under construction.
 
 ## Authors
 
-* **[Vinicius Morgado]** - *Initial work* - (https://github.com/viniciusmorgado)
+[**Vinicius Morgado**](https://github.com/viniciusmorgado)
 
 ## License
 
