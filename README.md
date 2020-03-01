@@ -29,15 +29,19 @@ Edit code:
 ## Screenshots
 
 Home page:
+
 ![](hhttps://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/begin.png)
 
 Add new taks everytime:
+
 ![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/new_task.png)
 
 Check in on your tasks when they are complete:
+
 ![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/check_tasks.png)
 
 Pull in one of the directions to delete a task:
+
 ![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/delete_tasks.gif)
 
 ### Break down into end to end tests
