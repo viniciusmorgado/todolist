@@ -25,12 +25,10 @@ For use this application on your smartphone or VM you can download apk or App Bu
 Download APK for Android:
 
 [Download for arm64](https://drive.google.com/u/0/uc?id=17BrxCSY6pDrPfvBJlOpry0teYpz33gkd&export=download)
+
 [Dowload for x86_64](https://drive.google.com/u/0/uc?id=1HE7QrO9ZfDT5E-YJznQERSbmP6q3DahM&export=download)
 
-Download App bundle
-
-[Download for arm64]()
-[Dowload for x86_64]()
+[Download App bundle](https://drive.google.com/file/d/1e-1w30u4bSFMC19YttGWHCVi9QXrD3DX/view)
 
 ## Screenshots
 Home page: | Add new tasks everytime:
