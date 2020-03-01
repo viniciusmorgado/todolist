@@ -13,34 +13,21 @@ For use this application on your smartphone or VM you can download apk or App Bu
 ### Prerequisites
 
 Run apk:
-* Operating system: Android 8.0 or later.
+* Android 8.0 or later.
 
 Edit code:
 * DartVM 2.70 or later
 * Flutter 1.12.13+hotfix.8 or later
 * Code editor (Ex: vscode, xcode, atom)
 
-### Installing
+### Download
 
-A step by step series of examples that tell you how to get a development env running
+[Download APK for Android]()
+[Download App bundle]()
 
-Say what the step will be
+## Screenshots
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
+Application screenshots
 
 ### Break down into end to end tests
 
@@ -64,9 +51,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Dart](https://dart.dev/)
+* [Flutter](https://flutter.dev/)
+* [JSON](https://www.json.org/json-en.html)
 
 ## Contributing
 
