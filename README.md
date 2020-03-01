@@ -30,7 +30,7 @@ Edit code:
 
 Home page:
 
-![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/begin.jpg){:height="700px" width="400px"}
+![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/teste.png)
 
 Add new taks everytime:
 
