@@ -30,9 +30,7 @@ Edit code:
 
 Home page:
 
-![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/begin.png)
-
-Add new taks everytime:
+![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/begin.png)Add new tasks everytime:
 
 ![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/new_task.png)
 
