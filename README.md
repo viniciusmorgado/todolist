@@ -4,7 +4,7 @@ Basic To-do List application for Android developed in Flutter for study purposes
 
 ## Getting Started
 
-For use this application on your smartphone or VM you can download apk or App Bundle on "download" session of this readme, if you intends to run the code in DartVM you will need to install Dart and Flutter both available for Windows, MacOS and Linux, please follow links for more information:
+For use this application on your smartphone or VM you can download apk or App Bundle on "download" session of this readme, if you intends to run the code in DartVM you will need to install Dart and Flutter, both available for Windows, MacOS and Linux, please follow links for more information:
 
 [Dart - Get Started, Installation](https://dart.dev/get-dart)
 
