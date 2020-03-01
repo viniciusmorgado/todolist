@@ -33,7 +33,7 @@ Home page: | Add new tasks everytime:
 
 Check-in on your tasks when they are complete: | Pull in one of the directions to delete a task:
 :-------------------------:|:-------------------------:
-![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/check_tasks.png) | ![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/delete_tasks.gif)
+![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/check_tasks.png) | ![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/ezgif.com-resize.gif)
 
 ### Break down into end to end tests
 
