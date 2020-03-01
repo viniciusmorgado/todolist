@@ -30,11 +30,13 @@ Edit code:
 
 Home page:
 
-![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/begin.png)Add new tasks everytime:
+![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/begin.png)
+
+Add new tasks everytime:
 
 ![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/new_task.png)
 
-Check in on your tasks when they are complete:
+Check-in on your tasks when they are complete:
 
 ![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/check_tasks.png)
 
