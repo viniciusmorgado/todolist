@@ -29,19 +29,16 @@ Edit code:
 ## Screenshots
 
 Home page:
-
-![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/teste.png)
+![](hhttps://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/begin.png)
 
 Add new taks everytime:
+![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/new_task.png)
 
-![test image size](/img/post-bg-2015.jpg)
+Check in on your tasks when they are complete:
+![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/check_tasks.png)
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Check your complete tasks:
-
-Pull in one of the directions to delete a task
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Pull in one of the directions to delete a task:
+![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/delete_tasks.gif)
 
 ### Break down into end to end tests
 
