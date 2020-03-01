@@ -47,7 +47,7 @@ Check-in on your tasks when they are complete: | Pull in one of the directions t
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/viniciusmorgado/todolist/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.h
+Please read [CONTRIBUTING.md](https://github.com/viniciusmorgado/todolist/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
