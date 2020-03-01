@@ -27,19 +27,11 @@ Edit code:
 [Download App bundle]()
 
 ## Screenshots
-Home page:             |  Add new tasks everytime:
+Home page: | Add new tasks everytime:
 :-------------------------:|:-------------------------:
-![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/begin.png)  |  ![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/new_task.png)
+![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/begin.png) | ![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/new_task.png)
 
-Home page:
-
-![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/begin.png)
-
-Add new tasks everytime:
-
-![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/new_task.png)
-
-Check-in on your tasks when they are complete:
+Check-in on your tasks when they are complete: 
 
 ![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/check_tasks.png)
 
