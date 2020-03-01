@@ -27,6 +27,9 @@ Edit code:
 [Download App bundle]()
 
 ## Screenshots
+Home page:             |  Add new tasks everytime:
+:-------------------------:|:-------------------------:
+![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/begin.png)  |  ![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/new_task.png)
 
 Home page:
 
