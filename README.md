@@ -57,7 +57,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](ttps://github.com/viniciusmorgado/todolist/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.h
 
 ## Versioning
 
