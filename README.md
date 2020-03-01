@@ -30,7 +30,11 @@ Edit code:
 
 Home page:
 
-![alt text](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/begin.jpg =250x250) Add new taks everytime:
+![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/begin.jpg){:height="700px" width="400px"}
+
+Add new taks everytime:
+
+![test image size](/img/post-bg-2015.jpg)
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
