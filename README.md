@@ -23,6 +23,7 @@ Edit code:
 ### Download
 
 [Download APK for Android]()
+
 [Download App bundle]()
 
 ## Screenshots
@@ -61,13 +62,11 @@ Please read [CONTRIBUTING.md](https://github.com/viniciusmorgado/todolist/blob/m
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Under construction.
 
 ## Authors
 
 * **[Vinicius Morgado]** - *Initial work* - (https://github.com/viniciusmorgado)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
