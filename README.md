@@ -16,9 +16,9 @@ Run apk:
 * Operating system: Android 8.0 or later.
 
 Edit code:
-DartVM 2.70 or later
-Flutter 1.12.13+hotfix.8 or later
-Code editor (Ex: vscode, xcode, atom)
+* DartVM 2.70 or later
+* Flutter 1.12.13+hotfix.8 or later
+* Code editor (Ex: vscode, xcode, atom)
 
 ### Installing
 
