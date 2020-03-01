@@ -30,7 +30,7 @@ Edit code:
 
 Home page:
 
-![](hhttps://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/begin.png)
+![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/begin.png)
 
 Add new taks everytime:
 
