@@ -34,9 +34,6 @@ class HomePage extends StatefulWidget {
 
   HomePage() {
     items = [];
-    // items.add(Item(title: "Kiwi", done: true));
-    // items.add(Item(title: "Abacaxi", done: true));
-    // items.add(Item(title: "Morango", done: false));
   }
 
   @override
@@ -60,7 +57,7 @@ class _HomePageState extends State<HomePage> {
     });
   }
 
-// Métodos para remover itens
+// Método para remover itens
   void remove(int index) {
     setState(() {
       widget.items.removeAt(index);
@@ -97,8 +94,10 @@ class _HomePageState extends State<HomePage> {
           controller: newTaskCtrl,
           keyboardType: TextInputType.text,
           style: TextStyle(color: Colors.white),
+          // Limita o número de carasteres possíveis para cada novo item na lista. (porém deforma texto?)
+          maxLength: 35,
           decoration: InputDecoration(
-            labelText: "New Task : ",
+            labelText: "Nova Tarefa:",
             labelStyle: TextStyle(color: Colors.white),
           ),
         ),
@@ -122,10 +121,6 @@ class _HomePageState extends State<HomePage> {
               key: Key(item.title),
               background: Container(
                 color: Colors.red.withOpacity(0.2),
-                child: Text(
-                  "Excluir",
-                  textAlign: TextAlign.center,
-                ),
               ),
               onDismissed: (direction) {
                 remove(index);
