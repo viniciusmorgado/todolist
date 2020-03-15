@@ -4,7 +4,7 @@ Basic To-do List application for Android developed in Flutter for study purposes
 
 ## Getting Started
 
-For use this application on your smartphone or VM you can download apk or App Bundle on "download" session of this readme, if you intends to run the code in DartVM you will need to install Dart and Flutter both available for Windows, macos and Linux, please follow links for more information:
+For use this application on your smartphone or VM you can download apk or App Bundle on "download" session of this readme, if you intends to run the code in DartVM you will need to install Dart and Flutter, both available for Windows, MacOS and Linux, please follow links for more information:
 
 [Dart - Get Started, Installation](https://dart.dev/get-dart)
 
@@ -12,19 +12,23 @@ For use this application on your smartphone or VM you can download apk or App Bu
 
 ### Prerequisites
 
-Run apk:
+**Run apk:**
 * Android 8.0 or later.
 
-Edit code:
+**Edit code:**
 * DartVM 2.70 or later
 * Flutter 1.12.13+hotfix.8 or later
 * Code editor (Ex: vscode, xcode, atom)
 
 ### Download
 
-[Download APK for Android]()
+Download APK for Android:
 
-[Download App bundle]()
+[Download for arm64](https://drive.google.com/u/0/uc?id=17BrxCSY6pDrPfvBJlOpry0teYpz33gkd&export=download)
+
+[Dowload for x86_64](https://drive.google.com/u/0/uc?id=1HE7QrO9ZfDT5E-YJznQERSbmP6q3DahM&export=download)
+
+[Download App bundle](https://drive.google.com/file/d/1e-1w30u4bSFMC19YttGWHCVi9QXrD3DX/view)
 
 ## Screenshots
 Home page: | Add new tasks everytime:
@@ -33,27 +37,7 @@ Home page: | Add new tasks everytime:
 
 Check-in on your tasks when they are complete: | Pull in one of the directions to delete a task:
 :-------------------------:|:-------------------------:
-![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/check_tasks.png) | ![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/delete_tasks.gif)
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Under construction.
+![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/check_tasks.png) | ![](https://github.com/viniciusmorgado/todolist/blob/master/lib/resources/img/interface/ezgif.com-resize.gif)
 
 ## Built With
 
@@ -63,11 +47,7 @@ Under construction.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/viniciusmorgado/todolist/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.h
-
-## Versioning
-
-Under construction.
+Please read [CONTRIBUTING.md](https://github.com/viniciusmorgado/todolist/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
